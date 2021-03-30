@@ -17,6 +17,8 @@ public class AppTest{
 	public static void ClassStart() {
 		System.out.println("Launching browser");
 		System.out.println("class start");
+		System.out.println("My code");
+		System.out.println("coding starts");
 	}
 	
 	@AfterClass
