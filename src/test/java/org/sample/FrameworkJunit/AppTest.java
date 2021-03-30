@@ -19,6 +19,9 @@ public class AppTest{
 		System.out.println("class started");
 		System.out.println("class started");
 		System.out.println("class started");
+		System.out.println("class start");
+		System.out.println("My code");
+		System.out.println("coding starts");
 
 	}
 	
