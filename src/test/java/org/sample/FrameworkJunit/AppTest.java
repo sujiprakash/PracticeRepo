@@ -16,15 +16,19 @@ public class AppTest{
 	@BeforeClass
 	public static void ClassStart() {
 		System.out.println("Launching browser");
+		System.out.println("class started");
+		System.out.println("class started");
+		System.out.println("class started");
 		System.out.println("class start");
 		System.out.println("My code");
 		System.out.println("coding starts");
+
 	}
 	
 	@AfterClass
 	public static void ClassEnd() {
 		System.out.println("Closing browser");
-		System.out.println("class end");
+		System.out.println("class ended");
 	}
 	
 	@Before
